@@ -8,12 +8,11 @@ import './bootstrap.css';
 function App() {
   return (
     <div className="App">
-
      <Router>
         <Routes>
         <Route path="/team/:teamname/matches/:year" element={<MatchPage />} />
         <Route path="/team/:teamname" element={<TeamPage />} />
-        <Route path="/" element={<HomePage />} />
+        <Route path="/IPL-Dashboard-Api-Frontend" element={<HomePage />} />
           
         </Routes>
       </Router>
