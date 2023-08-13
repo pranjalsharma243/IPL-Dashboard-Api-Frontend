@@ -14,7 +14,7 @@ useEffect(
  
     const fetchAllTeams=async()=>
     {
-        const response=await fetch(`http://localhost:8080/team`);
+        const response=await fetch(`https://pranjal.azurewebsites.net/team`);
         const data=await response.json();
        
         setTeams(data);
