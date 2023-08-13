@@ -14,6 +14,7 @@ useEffect(
  
     const fetchAllTeams=async()=>
     {
+        console.log("haa aya");
         const response=await fetch(`https://pranjal.azurewebsites.net/teams`);
         const data=await response.json();
        
