@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/IPL-Dashboard-Api-Frontend/static/css/main.ac60117b.css",
-    "main.js": "/IPL-Dashboard-Api-Frontend/static/js/main.dadf8e0c.js",
+    "main.js": "/IPL-Dashboard-Api-Frontend/static/js/main.9ce8cef3.js",
     "static/js/787.de55c14c.chunk.js": "/IPL-Dashboard-Api-Frontend/static/js/787.de55c14c.chunk.js",
     "index.html": "/IPL-Dashboard-Api-Frontend/index.html",
     "main.ac60117b.css.map": "/IPL-Dashboard-Api-Frontend/static/css/main.ac60117b.css.map",
-    "main.dadf8e0c.js.map": "/IPL-Dashboard-Api-Frontend/static/js/main.dadf8e0c.js.map",
+    "main.9ce8cef3.js.map": "/IPL-Dashboard-Api-Frontend/static/js/main.9ce8cef3.js.map",
     "787.de55c14c.chunk.js.map": "/IPL-Dashboard-Api-Frontend/static/js/787.de55c14c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac60117b.css",
-    "static/js/main.dadf8e0c.js"
+    "static/js/main.9ce8cef3.js"
   ]
 }
